@@ -24,7 +24,7 @@ namespace NumbersInCSharp
             int e = (a + b) % c;
             Console.WriteLine($"quotient: {d}");
             Console.WriteLine($"remainder: {e}");
-            Console.WriteLine($"The range of integers is {int.MinValue} to {int.MaxValue}");
+            Console.WriteLine($"The range of integers is {int.MinValue} to {int.MaxValue+3}");
         }
     }
 }

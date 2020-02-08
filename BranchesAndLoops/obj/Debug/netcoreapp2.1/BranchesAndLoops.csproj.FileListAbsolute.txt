@@ -1,0 +1,11 @@
+C:\Users\Ndavies\dotnet\BranchesAndLoops\bin\Debug\netcoreapp2.1\BranchesAndLoops.deps.json
+C:\Users\Ndavies\dotnet\BranchesAndLoops\bin\Debug\netcoreapp2.1\BranchesAndLoops.runtimeconfig.json
+C:\Users\Ndavies\dotnet\BranchesAndLoops\bin\Debug\netcoreapp2.1\BranchesAndLoops.runtimeconfig.dev.json
+C:\Users\Ndavies\dotnet\BranchesAndLoops\bin\Debug\netcoreapp2.1\BranchesAndLoops.dll
+C:\Users\Ndavies\dotnet\BranchesAndLoops\bin\Debug\netcoreapp2.1\BranchesAndLoops.pdb
+C:\Users\Ndavies\dotnet\BranchesAndLoops\obj\Debug\netcoreapp2.1\BranchesAndLoops.csprojAssemblyReference.cache
+C:\Users\Ndavies\dotnet\BranchesAndLoops\obj\Debug\netcoreapp2.1\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\Ndavies\dotnet\BranchesAndLoops\obj\Debug\netcoreapp2.1\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\Ndavies\dotnet\BranchesAndLoops\obj\Debug\netcoreapp2.1\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\Ndavies\dotnet\BranchesAndLoops\obj\Debug\netcoreapp2.1\BranchesAndLoops.dll
+C:\Users\Ndavies\dotnet\BranchesAndLoops\obj\Debug\netcoreapp2.1\BranchesAndLoops.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ndavies\\dotnet\\myApp\\myApp.csproj": {}
+    "C:\\Users\\Ndavies\\dotnet\\BranchesAndLoops\\BranchesAndLoops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ndavies\\dotnet\\myApp\\myApp.csproj": {
+    "C:\\Users\\Ndavies\\dotnet\\BranchesAndLoops\\BranchesAndLoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ndavies\\dotnet\\myApp\\myApp.csproj",
-        "projectName": "myApp",
-        "projectPath": "C:\\Users\\Ndavies\\dotnet\\myApp\\myApp.csproj",
+        "projectUniqueName": "C:\\Users\\Ndavies\\dotnet\\BranchesAndLoops\\BranchesAndLoops.csproj",
+        "projectName": "BranchesAndLoops",
+        "projectPath": "C:\\Users\\Ndavies\\dotnet\\BranchesAndLoops\\BranchesAndLoops.csproj",
         "packagesPath": "C:\\Users\\Ndavies\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ndavies\\dotnet\\myApp\\obj\\",
+        "outputPath": "C:\\Users\\Ndavies\\dotnet\\BranchesAndLoops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
