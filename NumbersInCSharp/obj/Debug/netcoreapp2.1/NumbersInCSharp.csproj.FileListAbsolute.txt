@@ -1,0 +1,11 @@
+C:\Users\Ndavies\dotnet\NumbersInCSharp\bin\Debug\netcoreapp2.1\NumbersInCSharp.deps.json
+C:\Users\Ndavies\dotnet\NumbersInCSharp\bin\Debug\netcoreapp2.1\NumbersInCSharp.runtimeconfig.json
+C:\Users\Ndavies\dotnet\NumbersInCSharp\bin\Debug\netcoreapp2.1\NumbersInCSharp.runtimeconfig.dev.json
+C:\Users\Ndavies\dotnet\NumbersInCSharp\bin\Debug\netcoreapp2.1\NumbersInCSharp.dll
+C:\Users\Ndavies\dotnet\NumbersInCSharp\bin\Debug\netcoreapp2.1\NumbersInCSharp.pdb
+C:\Users\Ndavies\dotnet\NumbersInCSharp\obj\Debug\netcoreapp2.1\NumbersInCSharp.csprojAssemblyReference.cache
+C:\Users\Ndavies\dotnet\NumbersInCSharp\obj\Debug\netcoreapp2.1\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ndavies\dotnet\NumbersInCSharp\obj\Debug\netcoreapp2.1\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\Ndavies\dotnet\NumbersInCSharp\obj\Debug\netcoreapp2.1\NumbersInCSharp.AssemblyInfo.cs
+C:\Users\Ndavies\dotnet\NumbersInCSharp\obj\Debug\netcoreapp2.1\NumbersInCSharp.dll
+C:\Users\Ndavies\dotnet\NumbersInCSharp\obj\Debug\netcoreapp2.1\NumbersInCSharp.pdb
