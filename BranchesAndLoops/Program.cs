@@ -50,12 +50,30 @@ namespace BranchesAndLoops
             }
         }
 
+        static void SumOfIntegersDivisibleBy3(int minNumber, int maxNumber)
+        {
+            int sumOfIntegers = 0;
+            // Loop through numbers between minNumber and maxNumber
+            for (int i = minNumber; i <= maxNumber; i++)
+            {
+                // If i is divisible by 3 then add i to the sumOfIntegers
+                if (i % 3 == 0)
+                {
+                    sumOfIntegers += i;
+                }
+            }
+
+            // Print the sum out with the minNumber and maxNumber values
+            Console.WriteLine($"The sum of integers between {minNumber} and {maxNumber} divisible by 3 is {sumOfIntegers}");
+        }
+
         static void Main(string[] args)
         {
             // ExploreIfs();
             // ExploreWhile();
             // ExploreDoWhile();
-            ExploreFor();
+            // ExploreFor();
+            SumOfIntegersDivisibleBy3(1, 20);
         }
     }
 }
