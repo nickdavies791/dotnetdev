@@ -5,7 +5,7 @@ namespace ListCollections
 {
     class Program
     {
-        static void Main(string[] args)
+        static void ChangingLists()
         {
             var names = new List<string> { "Nick", "Ana", "Felipe" };
             
@@ -20,6 +20,27 @@ namespace ListCollections
             Console.WriteLine($"My name is {names[0]}");
             Console.WriteLine($"I've added {names[2]} and {names[3]} to the list.");
             Console.WriteLine($"The list contains {names.Count} people.");
+        }
+
+        static void SortingAndSearchingLists()
+        {
+            var names = new List<string> { "Nick", "Ana", "Felipe" };
+
+            var index = names.IndexOf("Felipe");
+            if (index == -1)
+            {
+                Console.WriteLine($"If an item is not found, IndexOf is {index}");
+            }
+            else
+            {
+                Console.WriteLine($"{names[index]} is at index {index}");
+            }
+        }
+
+        static void Main(string[] args)
+        {
+            // ChangingLists();
+            SortingAndSearchingLists();
         }
     }
 }
