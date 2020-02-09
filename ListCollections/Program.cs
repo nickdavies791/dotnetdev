@@ -44,10 +44,33 @@ namespace ListCollections
             }
         }
 
+        /*
+         * The Fibonacci sequence takes the sum of the previous two numbers
+         * to return the next number in the sequence.
+         */
+        static void FibonacciSequence()
+        {
+            var fibonacciNumbers = new List<int> {1, 1};
+
+            while (fibonacciNumbers.Count < 20)
+            {
+                var previousNumber = fibonacciNumbers[fibonacciNumbers.Count - 1];
+                var oneBeforePreviousNumber = fibonacciNumbers[fibonacciNumbers.Count - 2];
+
+                fibonacciNumbers.Add(previousNumber + oneBeforePreviousNumber);
+            }
+
+            foreach (var item in fibonacciNumbers)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
         static void Main(string[] args)
         {
             // ChangingLists();
-            SortingAndSearchingLists();
+            // SortingAndSearchingLists();
+            FibonacciSequence();
         }
     }
 }
