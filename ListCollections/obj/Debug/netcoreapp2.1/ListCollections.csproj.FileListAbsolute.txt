@@ -1,0 +1,11 @@
+C:\Users\Ndavies\dotnet\ListCollections\obj\Debug\netcoreapp2.1\ListCollections.csprojAssemblyReference.cache
+C:\Users\Ndavies\dotnet\ListCollections\obj\Debug\netcoreapp2.1\ListCollections.csproj.CoreCompileInputs.cache
+C:\Users\Ndavies\dotnet\ListCollections\obj\Debug\netcoreapp2.1\ListCollections.AssemblyInfoInputs.cache
+C:\Users\Ndavies\dotnet\ListCollections\obj\Debug\netcoreapp2.1\ListCollections.AssemblyInfo.cs
+C:\Users\Ndavies\dotnet\ListCollections\bin\Debug\netcoreapp2.1\ListCollections.deps.json
+C:\Users\Ndavies\dotnet\ListCollections\bin\Debug\netcoreapp2.1\ListCollections.runtimeconfig.json
+C:\Users\Ndavies\dotnet\ListCollections\bin\Debug\netcoreapp2.1\ListCollections.runtimeconfig.dev.json
+C:\Users\Ndavies\dotnet\ListCollections\bin\Debug\netcoreapp2.1\ListCollections.dll
+C:\Users\Ndavies\dotnet\ListCollections\bin\Debug\netcoreapp2.1\ListCollections.pdb
+C:\Users\Ndavies\dotnet\ListCollections\obj\Debug\netcoreapp2.1\ListCollections.dll
+C:\Users\Ndavies\dotnet\ListCollections\obj\Debug\netcoreapp2.1\ListCollections.pdb
