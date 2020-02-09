@@ -8,7 +8,10 @@ namespace ListCollections
         static void Main(string[] args)
         {
             var names = new List<string> { "Nick", "Ana", "Felipe" };
-
+            
+            names.Add("Maria");
+            names.Add("Bill");
+            names.Remove("Ana");
             foreach (var name in names)
             {
                 Console.WriteLine($"Hello, {name.ToUpper()}");
