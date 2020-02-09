@@ -35,6 +35,13 @@ namespace ListCollections
             {
                 Console.WriteLine($"{names[index]} is at index {index}");
             }
+
+            names.Sort();
+
+            foreach (var name in names)
+            {
+                Console.WriteLine($"Hello, {name.ToUpper()}");
+            }
         }
 
         static void Main(string[] args)
