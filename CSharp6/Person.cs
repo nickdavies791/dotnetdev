@@ -21,10 +21,7 @@ namespace CSharp6
         /**
          * Return full name when using ToString method.
          */
-        public override string ToString()
-        {
-            return Forename + " " + MiddleName + " " + Surname;
-        }
+        public override string ToString() => Forename + " " + MiddleName + " " + Surname;
 
         /**
          * Returns full name in caps, modifying the original
