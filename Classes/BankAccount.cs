@@ -1,13 +1,26 @@
 using System;
+using System.Collections.Generic;
 
 namespace Classes
 {
     public class BankAccount
     {
         private static int accountNumberSeed = 1234567890;
+        private List<Transaction> allTransactions = new List<Transaction>();
         public string Number { get; }
         public string Owner { get; }
-        public decimal Balance { get; }
+        public decimal Balance {
+            get 
+            {
+                decimal balance = 0;
+                foreach (var transaction in allTransactions)
+                {
+                    balance +- transaction.Amount;
+                }
+
+                return balance;
+            }
+        }
 
         public BankAccount(string name, decimal initialBalance)
         {
