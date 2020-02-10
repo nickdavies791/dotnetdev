@@ -1,0 +1,11 @@
+C:\Users\Ndavies\dotnet\CSharp6\obj\Debug\netcoreapp2.1\CSharp6.csprojAssemblyReference.cache
+C:\Users\Ndavies\dotnet\CSharp6\obj\Debug\netcoreapp2.1\CSharp6.csproj.CoreCompileInputs.cache
+C:\Users\Ndavies\dotnet\CSharp6\obj\Debug\netcoreapp2.1\CSharp6.AssemblyInfoInputs.cache
+C:\Users\Ndavies\dotnet\CSharp6\obj\Debug\netcoreapp2.1\CSharp6.AssemblyInfo.cs
+C:\Users\Ndavies\dotnet\CSharp6\bin\Debug\netcoreapp2.1\CSharp6.deps.json
+C:\Users\Ndavies\dotnet\CSharp6\bin\Debug\netcoreapp2.1\CSharp6.runtimeconfig.json
+C:\Users\Ndavies\dotnet\CSharp6\bin\Debug\netcoreapp2.1\CSharp6.runtimeconfig.dev.json
+C:\Users\Ndavies\dotnet\CSharp6\bin\Debug\netcoreapp2.1\CSharp6.dll
+C:\Users\Ndavies\dotnet\CSharp6\bin\Debug\netcoreapp2.1\CSharp6.pdb
+C:\Users\Ndavies\dotnet\CSharp6\obj\Debug\netcoreapp2.1\CSharp6.dll
+C:\Users\Ndavies\dotnet\CSharp6\obj\Debug\netcoreapp2.1\CSharp6.pdb
