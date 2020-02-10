@@ -8,6 +8,9 @@ namespace Classes
         public DateTime Date { get; }
         public string Notes { get; }
 
+        /**
+         * Constructor method.
+         */
         public Transaction(decimal amount, DateTime date, string note)
         {
             this.Amount = amount;
