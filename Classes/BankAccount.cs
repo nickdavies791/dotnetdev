@@ -32,7 +32,7 @@ namespace Classes
             this.Number = accountNumberSeed.ToString();
             accountNumberSeed++;
 
-            MakeDeposit(initialBalance, DateTime.Now, "Initial Balance");
+            MakeDeposit(initialBalance, DateTime.Now, "Opening Balance");
         }
 
         /**
@@ -66,6 +66,22 @@ namespace Classes
 
             var withdrawal = new Transaction(-amount, date, note);
             allTransactions.Add(withdrawal);
+        }
+
+        public string GetAccountHistory()
+        {
+            var report = new System.Text.StringBuilder();
+
+            decimal balance = 0;
+            report.AppendLine("Date\t\tAmount\tBalance\tNote");
+
+            foreach (var transaction in allTransactions)
+            {
+                balance += transaction.Amount;
+                report.AppendLine($"{transaction.Date.ToShortDateString()}\t{transaction.Amount}\t{balance}\t{transaction.Notes}");
+            }
+
+            return report.ToString();
         }
     }
 }
