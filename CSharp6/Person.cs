@@ -30,10 +30,7 @@ namespace CSharp6
          */
         public string AllCaps()
         {
-            Forename = Forename.ToUpper();
-            Surname = Surname.ToUpper();
-
-            return ToString();
+            return ToString().ToUpper();
         }
     }
 }
