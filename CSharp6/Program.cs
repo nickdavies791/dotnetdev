@@ -1,4 +1,4 @@
-﻿using System;
+﻿using static System.Console;
 
 namespace CSharp6
 {
@@ -7,9 +7,9 @@ namespace CSharp6
         static void Main(string[] args)
         {
             var person = new Person("Nick", "Ashley", "Davies");
-            Console.WriteLine($"{person.ToString()}");
-            Console.WriteLine($"{person.AllCaps()}");
-            Console.WriteLine($"{person}");
+            WriteLine($"{person.ToString()}");
+            WriteLine($"{person.AllCaps()}");
+            WriteLine($"{person}");
         }
     }
 }
