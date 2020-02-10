@@ -4,15 +4,17 @@ namespace CSharp6
 {
     public class Person
     {
-        public string Forename { get; } // Should not be able to modify
-        public string Surname { get; } // Should not be able to modify
+        public string Forename { get; } 
+        public string MiddleName { get; } = "";
+        public string Surname { get; } 
 
         /**
          * Constructor method.
          */
-        public Person(string forename, string surname)
+        public Person(string forename, string middlename, string surname)
         {
             Forename = forename;
+            MiddleName = middlename;
             Surname = surname;
         }
 
@@ -21,7 +23,7 @@ namespace CSharp6
          */
         public override string ToString()
         {
-            return Forename + " " + Surname;
+            return Forename + " " + MiddleName + " " + Surname;
         }
 
         /**
