@@ -27,9 +27,6 @@ namespace CSharp6
          * Returns full name in caps, modifying the original
          * property values and returning the result.
          */
-        public string AllCaps()
-        {
-            return ToString().ToUpper();
-        }
+        public string AllCaps() => ToString().ToUpper();
     }
 }
