@@ -10,6 +10,7 @@ namespace CSharp6
             WriteLine($"{person.ToString()}");
             WriteLine($"{person.AllCaps()}");
             WriteLine($"{person}");
+            WriteLine(person.GetAverageLengthOfFullName());
         }
     }
 }
