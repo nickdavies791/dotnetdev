@@ -17,6 +17,10 @@ namespace Classes
             // Make a deposit
             account.MakeDeposit(2000, DateTime.Now, "Salary");
             Console.WriteLine($"Balance: {account.Balance}");
+
+            // Try to make a withdrawal over the available balance
+            account.MakeWithdrawal(7500, DateTime.Now, "Fraud");
+            Console.WriteLine($"Balance: {account.Balance}");
         }
     }
 }
