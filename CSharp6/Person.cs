@@ -4,8 +4,8 @@ namespace CSharp6
 {
     public class Person
     {
-        public string Forename { get; private set; }
-        public string Surname { get; private set; }
+        public string Forename { get; } // Should not be able to modify
+        public string Surname { get; } // Should not be able to modify
 
         /**
          * Constructor method.
@@ -24,6 +24,10 @@ namespace CSharp6
             return Forename + " " + Surname;
         }
 
+        /**
+         * Returns full name in caps, modifying the original
+         * property values and returning the result.
+         */
         public string AllCaps()
         {
             Forename = Forename.ToUpper();
